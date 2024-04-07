@@ -38,7 +38,7 @@ The baseline system takes only the phonological similarity of the candidate cogn
 
 Results will be evaluated with [Mean Reciprocal Rank](https://en.wikipedia.org/wiki/Mean_reciprocal_rank). The reciprocal rank of a query response (candidate cognates) is the multiplicative inverse of the first correct answer. If the first answer is correct, is 1; if the second answer is correct, it is 1/2, if the third is correct, it is 1/2. If none of the answers is correct, it is 0. The formula is as follows:
 
-![The formula for Mean Reciprocal Rank](/assets/images/mrr.svg)
+![The formula for Mean Reciprocal Rank](assets/images/mrr.svg)
 
 You will upload your outputs to Gradescope with the names:
 
