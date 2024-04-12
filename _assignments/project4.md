@@ -26,7 +26,7 @@ You will be provided with the following sets:
 - Ukhrul–Tusom
 - Ukrhul–Kachai
 
-The data is in [proj4_dataset.zip](assets/zip/proj4_dataset.zip).
+The data is in [proj4_dataset.zip](proj4_dataset.zip).
 
 ## The Task
 
