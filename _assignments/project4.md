@@ -26,7 +26,7 @@ You will be provided with the following sets:
 - Ukhrul–Tusom
 - Ukrhul–Kachai
 
-The data is in [miniproj4-dataset.zip](assets/miniproj4-dataset.zip).
+The data is in [miniproj4-dataset.zip](/assets/miniproj4-dataset.zip).
 
 ## The Task
 
@@ -119,6 +119,18 @@ Results will be evaluated with [Mean Reciprocal Rank](https://en.wikipedia.org/w
 </g>
 </svg>
 {:/}
+
+The function used for evaluation is as follows:
+
+```python
+def mean_reciprocal_rank(gold, inputs, preds):
+  total = []
+  for idx, inp in enumerate(inputs):
+    if gold["\t".join(inp)] in preds[idx][:5]:
+      total.append(1.0 / (preds[idx].index(gold["\t".join(inp)]) + 1))
+
+  return sum(total) / len(total)
+```
 
 You will upload your outputs to Gradescope with the names:
 
