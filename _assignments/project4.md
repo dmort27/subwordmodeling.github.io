@@ -26,13 +26,30 @@ You will be provided with the following sets:
 - Ukhrul–Tusom
 - Ukrhul–Kachai
 
+The data is in [miniproj4-dataset.zip](assets/miniproj4-dataset.zip).
+
 ## The Task
 
-The task will be to generate a tab-separated file with five columns correspoding to the top five most likely cognates in the other langugae to the corresponding Ukhrul word (the nth row consists of the top-five best cognate candidates for the nth Ukhrul word). The best candidate should be in the first column, the second best candidate should be in the second column, and so on.
+The task will be to generate a tab-separated file with ten columns correspoding to the top five most likely cognates (forms and glosses) in the other langugae to the corresponding Ukhrul word (the nth row consists of the top-five best cognate candidates for the nth Ukhrul word). The best candidate should be in the first-second column, the second best candidate should be in the third-fourth column, and so on.
+
+The format should look like this:
+```
+[FORM1]\t[GLOSS1]\t[FORM2]\[GLOSS2]...[FORM5]\t[GLOSS5]\n
+```
 
 ## Baseline
 
-The baseline system takes only the phonological similarity of the candidate cognates into account. It uses a simple method of producing phonological embeddings that is based upon the tf-idf of IPA character 1-, 2-, and 3-grams. The algorithm simply ranks words according to the cosine similarity of their embeddings.
+The baseline system takes the phonological similarity and semantic similarity of the candidate cognates into account. It uses a simple method of producing phonological embeddings that is based upon the tf-idf of IPA character 1-, 2-, and 3-grams. The algorithm simply ranks words according to the cosine similarity of their embeddings. The semantic similarity metric is “exact match on the gloss.” If the glosses of the Ukhrul word and the candidate match completely, `1` is added to the score. Otherwise `0` is added to the score.
+
+The baseline scores are as follows:
+
+|---------------|----------------------|
+| Language Pair | Mean Reciprocal Rank |
+|---------------| -------------------: |
+| Ukhrul-Huishu |                 0.92 |
+| Ukhrul-Kachai |                 0.81 |
+| Ukhrul-Tusom  |                 0.92 |
+|---------------|----------------------|
 
 ## Evaluation
 
