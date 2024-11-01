@@ -8,11 +8,11 @@ The goal of this course is to **lead students to engage broadly with the existin
 
 For a complete overview, see [the syllabus](assets/pdf/syllabus-s24.pdf).
 
-**Semester:** Spring 2024
+**Semester:** Spring 2025
 
-**Location:** PH 100
+**Location:** DH A302
 
-**Day/Time:** Tue and Thu, 11:00am—12:20pm
+**Day/Time:** Mon and Wed, 11:00am—12:20pm
 
 <a id="contents"></a>Contents:
 * <a href="#schedule">Schedule</a>
@@ -31,7 +31,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s24.pdf).
 
 ## In-Class Exercises <a class="tiny-link" href="#">Top</a>
 
-* <a href="assets/zip/wp-totonac-inclass.zip">Totonac Word-and-Paradigm Excercise</a>
+* <a href="assets/zip/wp-totonac-inclass.zip">Totonac Word-and-Paradigm Excercise</a> with unpublished data from [Jonathan Amith](mailto:jonamith@gmail.com) and [Osbel Lopez](mailto:osbel9@gmail.com). (For any use outside of this course, they should be attributed.)
 
 <a id="instructors">
 
@@ -45,12 +45,12 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s24.pdf).
 * *Email:* dmortens@cs.cmu.edu
 * *Twitter:* dmort27 
 
-**Teaching Assistant:** Anjali Kantharuban
+**Teaching Assistant:** TBA
 
-* *Office Hours Location:* GHC 5417
-* *Office Hours:* Mon 16:00–17:00, Wed 16:00–17:00
+* *Office Hours Location:* TBA
+* *Office Hours:* TAB
 
-* *Email:* akanthar@andrew.cmu.edu
+* *Email:* TBA
 
 <a id="objectives">
 
