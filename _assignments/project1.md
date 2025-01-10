@@ -24,3 +24,4 @@ The goal is the reproduce the reference target given the source and a model trai
 
 - **Morfessor (data-driven).** For each language, the Morfessor morphological segmentation algorithm will be applied. This algorithm, which is reasonably complicated, is designed to yield segmentations that resemble morpheme segemntations used by linguists.
 - **Unigram (data-driven).** For each language, a Unigram model will be trained on the training set. If other unlabeled text data can be found, it will be used as well (and shared with you). You will be provided with the Unigram tokenizer output for the dev set.
+- **BPE (data-driven)}**. For each language, a BPE model will be trained on the training set. If other unlabeled text data can be found, it will be used as well (and shared with you). Vocabulary size will be tuned on the development set. You will be provided with the BPE tokenizer output for the `dev` set.
