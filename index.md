@@ -12,7 +12,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 
 **Location:** DH A302
 
-**Day/Time:** Mon and Wed, 11:00am—12:20pm
+**Day/Time:** Tue and Thurs, 11:00am—12:20pm
 
 <a id="contents"></a>Contents:
 * <a href="#schedule">Schedule</a>
