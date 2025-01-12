@@ -45,12 +45,12 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 * *Email:* dmortens@cs.cmu.edu
 * *Twitter:* dmort27 
 
-**Teaching Assistant:** TBA
+**Teaching Assistant:** Rithvik Senthil
 
 * *Office Hours Location:* TBA
-* *Office Hours:* TAB
+* *Office Hours:* TBA
 
-* *Email:* TBA
+* *Email:* rithviks@andrew.cmu.edu
 
 <a id="objectives">
 
