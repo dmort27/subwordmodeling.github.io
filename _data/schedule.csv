@@ -1,27 +1,27 @@
 Date,Lec,Topic,Topic Tag,Topic Slide Link,Instructor,Assignment,Assignment Tag,Secondary Tag
-Jan 13,1,Intro Lecture; introduction to Project 1,01-introduction,,David,Project 1,project1,project
-Jan 15,2,"Signs, minimal signs, and compositionality",02-signs,,David,,,
-Jan 22,3,Productivity and generalization,03-productivity,,David,,,
-Jan 27,4,"Inflection, derivation, and compounding",04-inflection_derivation,,David,,,
-Jan 29,5,"Morphotactics, affix ordering, the mirror principles, and the relevance principle",05-morphotactics,,David,,,
-Feb 03,6,Computational approaches to morphological segmentation/tokenization,06-computational_approaches,,David,,,
-Feb 05,7,Allomorphy,07-allomorphy,,David,,,
-Feb 10,8,Non-concatenative processes,08-nonconcatenative,,David,,,
-Feb 12,9,Lexemes and paradigms; introduction to Project 2,09-lexemes,,David,Project 2,project2,project
-Feb 17,10,Grammatical properties,10-grammatical-properties,,David,,,
-Feb 19,11,Word-and-Paradigm morphology,11-wp-morphology,,David,,,
-Feb 24,12,Rules of realization and rules of referral,12-rules,,David,,,
-Feb 26,13,Neural approaches to reinflection,13-neural-reinflection,,David,,,
-Mar 10,15,Descriptive phonetics; introduction to Project 3,15-descriptive-phonetics,,David,Project 3,project3,project
-Mar 12,16,IPA versus orthographies,16-orthography-versus-ipa,,David,,,
-Mar 17,17,Typology of orthographies,17-typology-of-orthographies,,David,,,
-Mar 19,18,G2P and P2G,18-g2p-and-p2g,,David,,,
-Mar 24,19,Unicode—logical and visual representations,19-unicode,,David,,,
-Mar 26,20,Articulatory features; introduction to Project 4,21-articulatory-features,,David,Project 4,project4,project
-Mar 31,21,Syllabification and syllable segmentation,22-syllables,,David,,,
-Apr 07,22,Phonological similarity and cognate detection,23-phonological-similarity,,David,,,
-Apr 09,23,Sound change,24-sound-change,,David,,,
-Apr 14,24,Rule ordering and relative chronology,25-relative-chronology,,David,,,
-Apr 16,25,Presentations,,,Class,,,
-Apr 21,26,Travel,,,,,,
-Apr 23,26,Presentations,,,Class,,,
+Jan 14,1,Intro Lecture; introduction to Project 1,01-introduction,,David,Project 1,project1,project
+Jan 16,2,"Signs, minimal signs, and compositionality",02-signs,,David,,,
+Jan 21,3,Productivity and generalization,03-productivity,,David,,,
+Jan 23,4,"Inflection, derivation, and compounding",04-inflection_derivation,,David,,,
+Jan 28,5,"Morphotactics, affix ordering, the mirror principles, and the relevance principle",05-morphotactics,,David,,,
+Jan 30,6,Computational approaches to morphological segmentation/tokenization,06-computational_approaches,,David,,,
+Feb 04,7,Allomorphy,07-allomorphy,,David,,,
+Feb 06,8,Non-concatenative processes,08-nonconcatenative,,David,,,
+Feb 11,9,Lexemes and paradigms; introduction to Project 2,09-lexemes,,David,Project 2,project2,project
+Feb 13,10,Grammatical properties,10-grammatical-properties,,David,,,
+Feb 18,11,Word-and-Paradigm morphology,11-wp-morphology,,David,,,
+Feb 20,12,Rules of realization and rules of referral,12-rules,,David,,,
+Feb 25,13,Neural approaches to reinflection,13-neural-reinflection,,David,,,
+Feb 27,15,Descriptive phonetics; introduction to Project 3,15-descriptive-phonetics,,David,Project 3,project3,project
+Mar 11,16,IPA versus orthographies,16-orthography-versus-ipa,,David,,,
+Mar 13,17,Typology of orthographies,17-typology-of-orthographies,,David,,,
+Mar 18,18,G2P and P2G,18-g2p-and-p2g,,David,,,
+Mar 20,19,Unicode—logical and visual representations,19-unicode,,David,,,
+Mar 25,20,Articulatory features; introduction to Project 4,21-articulatory-features,,David,Project 4,project4,project
+Mar 27,21,Syllabification and syllable segmentation,22-syllables,,David,,,
+Apr 01,22,Phonological similarity and cognate detection,23-phonological-similarity,,David,,,
+Apr 03,23,Sound change,24-sound-change,,David,,,
+Apr 08,24,Rule ordering and relative chronology,25-relative-chronology,,David,,,
+Apr 10,25,Presentations,,,Class,,,
+Apr 15,26,Travel,,,,,,
+Apr 17,26,Presentations,,,Class,,,
