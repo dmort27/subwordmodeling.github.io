@@ -12,7 +12,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 
 **Location:** DH A302
 
-**Day/Time:** Mon and Wed, 11:00am—12:20pm
+**Day/Time: Tue and Thurs, 11:00 am — 12:20 pm**
 
 <a id="contents"></a>Contents:
 * <a href="#schedule">Schedule</a>
@@ -45,12 +45,12 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 * *Email:* dmortens@cs.cmu.edu
 * *Twitter:* dmort27 
 
-**Teaching Assistant:** TBA
+**Teaching Assistant:** Rithvik Senthil
 
 * *Office Hours Location:* TBA
-* *Office Hours:* TAB
+* *Office Hours:* TBA
 
-* *Email:* TBA
+* *Email:* rithviks@andrew.cmu.edu
 
 <a id="objectives">
 
