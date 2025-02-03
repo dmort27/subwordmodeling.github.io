@@ -48,7 +48,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 **Teaching Assistant:** Rithvik Senthil
 
 * *Office Hours Location:* GHC 5th floor common area (Near Pausch bridge entrance)
-* *Office Hours:* Mondays - 11:00 am-12 pm, Thursdays - 12:30 pm-1 pm
+* *Office Hours:* Mondays - 11:00 am-12 pm, Thursdays - 12:30 pm-1:30 pm
 
 * *Email:* rithviks@andrew.cmu.edu
 
