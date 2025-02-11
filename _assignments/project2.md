@@ -22,7 +22,7 @@ The baseline scores to beat are as follows:
 | Language | Non-Neural Accuracy | Neural Accuracy |
 | -------- | ------------------- | --------------- |
 | kbd      | 88.5                | 67.6            |
-| swc      | 72.3                | 95.0            |
+| swc      | 72.3                | 0.95            |
 | xty      | 73.5                | 79.8            |
 
 Code to reproduce the baselines can be found [here](https://colab.research.google.com/drive/1nskoaUtxGfzk4GWqVJQUG2DSA-XsmSon?usp=sharing).
